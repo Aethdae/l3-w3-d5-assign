@@ -9,7 +9,7 @@ export default function Body() {
       <div>
         <Link
           to="/recipes"
-          className="outline-2 hover:outline-4 bg-orange-600 transition-all duration-100 p-2 rounded-xl"
+          className="outline-2 hover:outline-4 bg-orange-600 text-white transition-all duration-100 p-2 rounded-xl"
         >
           Browse Recipes
         </Link>
